@@ -13,6 +13,7 @@
 	const FileSystem = require('fs');
 	const Utility = require('util');
 	//External
+	const ParseJSON = require('parse-json');
 
 //Constants
 const FILENAME = 'smwc_parser.js';
@@ -29,14 +30,16 @@ if(require.main === module){
 //Exports and Execution
 if(require.main === module){
 	var page1_data = FileSystem.readFileSync('CLDC2016_RulesSubmissions_Page1_trimmed.html', 'utf8');
+	page1_data += FileSystem.readFileSync('CLDC2016_RulesSubmissions_Page2_Trimmed.html', 'utf8');
 	//var page1_tree = Parse5.parse(page1_data, { sourceCodeLocation: true });
 	////console.log(Utility.inspect(page1_tree, { colors: false, depth: null, maxArrayLength: null } ));
 	//var entry_array = page1_data.match(/<div class="postcontainer postpadding">/g);
 	//var number_of_entries = entry_array.length;
 	var page1_entry_data_array = page1_data.split('</tr>');
+	var length = page1_data.match(/<tr id="p\d+">/g).length;
 	var entries = [  ];
 	var match_result;
-	for( var i = 1; i < page1_entry_data_array.length; i++){
+	for( var i = 1; i < length; i++){
 		console.log(i);
 		var entry = {
 			submission: {
@@ -52,6 +55,7 @@ if(require.main === module){
 				smwc_user_since: ''
 			},
 			scores: {
+				rank: null,
 				nimono: {
 					design: null,
 					creativity: null,
@@ -201,6 +205,41 @@ if(require.main === module){
 		entries.push(entry);
 	}
 	console.log(entries);
+	var results_data = FileSystem.readFileSync('results.json', 'utf8');
+	var results = ParseJSON(results_data);
+	for( var i = 0; i < entries.length; i++){
+		for( var j = 0; j < 27; j++){
+			console.log("%d %d %s %s", i, j, entries[i].submission.author_username, results.score_array[j][1]);
+			if( entries[i].submission.author_username == results.score_array[j][1] ){
+				entries[i].scores.rank = results.score_array[j][0];
+				entries[i].scores.nimono.design = results.score_array[j][2];
+				entries[i].scores.nimono.creativity = results.score_array[j][3];
+				entries[i].scores.nimono.aesthetics = results.score_array[j][4];
+				entries[i].scores.nimono.total = results.score_array[j][5];
+				entries[i].scores.noivern.design = results.score_array[j][6];
+				entries[i].scores.noivern.creativity = results.score_array[j][7];
+				entries[i].scores.noivern.aesthetics = results.score_array[j][8];
+				entries[i].scores.noivern.total = results.score_array[j][9];
+				entries[i].scores.impetus.design = results.score_array[j][10];
+				entries[i].scores.impetus.creativity = results.score_array[j][11];
+				entries[i].scores.impetus.aesthetics = results.score_array[j][12];
+				entries[i].scores.impetus.total = results.score_array[j][13];
+				entries[i].scores.torchkas.design = results.score_array[j][14];
+				entries[i].scores.torchkas.creativity = results.score_array[j][15];
+				entries[i].scores.torchkas.aesthetics = results.score_array[j][16];
+				entries[i].scores.torchkas.total = results.score_array[j][17];
+				entries[i].scores.wakana.design = results.score_array[j][18];
+				entries[i].scores.wakana.creativity = results.score_array[j][19];
+				entries[i].scores.wakana.aesthetics = results.score_array[j][20];
+				entries[i].scores.wakana.total = results.score_array[j][21];
+//				entries[i].scores.average.design = results.score_array[j][22];
+//				entries[i].scores.average.creativity = results.score_array[j][23];
+//				entries[i].scores.average.aesthetics = results.score_array[j][24];
+				entries[i].scores.average.total = results.score_array[j][22];
+				j = 27;
+			}
+		}
+	}
 	var output_string = JSON.stringify(entries, null, '\t');
 	FileSystem.writeFileSync('output_1.json', output_string, 'utf8');
 } else{
