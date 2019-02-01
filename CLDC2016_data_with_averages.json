@@ -1,0 +1,3312 @@
+{
+	"contest_details": {
+		"name": "Chocolate Level Design Contest 2016",
+		"rules_submissionsi_thread": "https://www.smwcentral.net/?p=viewthread&t=86337",
+		"discussion_thread": "https://www.smwcentral.net/?p=viewthread&t=86338",
+		"results_thread": "https://www.smwcentral.net/?p=viewthread&t=87876",
+		"results_spreadsheet": "https://drive.google.com/open?id=1-a2_d1jQ0d3Q0hQaV5BrDUh2fnLbToI5YnEJQKXMuD0",
+		"entries": 27
+	},
+	"entries": [
+		{
+			"submission": {
+				"id": "p1371526",
+				"author_id": "28545",
+				"author_username": "h.carrell",
+				"post_created": "2016-10-18T02:32:03",
+				"last_edit": "2016-10-18T02:33:56",
+				"last_edit_author_id": "28545",
+				"last_edit_author_username": "h.carrell",
+				"message_body": "\n<tr id=\"p1371526\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=28545\" style=\"color: #657091;\" class=\"un\">h.carrell</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"file:///home/chronos/u-8406f62cefffa37f7f73b177cb0b5798d9f28074/Downloads/Myself.jpg\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 2/6<br>\n\t\t\n\t\tSince: <time datetime=\"2016-03-03T03:41:32\">2016-03-03 03:41:32 AM</time><br>\n\t\t\tLocation: california<br>\n\t\t\t<br>\n\t\tLast seen: 7 months and 6 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1371526\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-10-18T02:32:03\">2016-10-18 02:32:03 AM</time> | <i>Last edited <time datetime=\"2016-10-18T02:33:56\">2016-10-18 02:33:56 AM</time> by <a href=\"/?p=profile&amp;id=28545\" style=\"color: #657091;\" class=\"un\">h.carrell</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\tis this how you submit <br>\r\nhttp://bin.smwcentral.net/u/28545/SMW%2BCI7.ips<br>\r\nif it is then <br>\r\nSuper Mario World, Chocolate Island 7\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/28545/SMW%2BCI7.ips",
+				"smwc_user_since": "2016-03-03T03:41:32"
+			},
+			"scores": {
+				"rank": 26,
+				"nimono": {
+					"design": 4,
+					"creativity": 6,
+					"aesthetics": 4,
+					"total": 14,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 5,
+					"creativity": 4,
+					"aesthetics": 7,
+					"total": 16,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 7,
+					"creativity": 4,
+					"aesthetics": 3,
+					"total": 14,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 13,
+					"creativity": 4,
+					"aesthetics": 4,
+					"total": 21,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 4,
+					"creativity": 2,
+					"aesthetics": 5,
+					"total": 11,
+					"comment": ""
+				},
+				"average": {
+					"design": 6.6,
+					"creativity": 4,
+					"aesthetics": 4.6,
+					"total": 15.2,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1371550",
+				"author_id": "27645",
+				"author_username": "Green Jerry",
+				"post_created": "2016-10-18T04:26:46",
+				"last_edit": "2016-10-20T01:02:26",
+				"last_edit_author_id": "27645",
+				"last_edit_author_username": "Green Jerry",
+				"message_body": "\n<tr id=\"p1371550\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=27645\" style=\"color: #97acef;\" class=\"un\">Green Jerry</a><br>\n\t\t<span class=\"small\">Mario<br><img src=\"/images/rankset/smash/mario.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/27645/greenjerry.gif\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 282/909<br>\n\t\t\n\t\tSince: <time datetime=\"2015-10-19T05:51:49\">2015-10-19 05:51:49 AM</time><br>\n\t\t\tLocation: Brazil<br>\n\t\t\t<br>\n\t\tLast seen: 17 minutes and 1 second ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1371550\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-10-18T04:26:46\">2016-10-18 04:26:46 AM</time> | <i>Last edited <time datetime=\"2016-10-20T01:02:26\">2016-10-20 01:02:26 AM</time> by <a href=\"/?p=profile&amp;id=27645\" style=\"color: #97acef;\" class=\"un\">Green Jerry</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/27645/CLDC%2BEntry%2B1.2.1.zip\" rel=\"nofollow\">Download</a><br>\r\nFirst part of the level is a grassland and the second part is a forest.<br>\r\n<br>\r\nUPDATE: I found a glitch with the Yoshi Coin in the bonus area. I also changed some graphics.<br>\r\n<br>\r\nUPDATE 2: I found another bug in the forest part near the end. I also enabled vertical scrolling in the forest part.<br><br>--------------------<br><a href=\"https://www.smwcentral.net/?p=viewthread&t=91443\"><img src=\"https://cdn.discordapp.com/attachments/405850203611070466/432542519524327444/MRTGM-Userbar.png\"></a><br>\r\n<a href=\"https://discord.gg/u2T3D5q\" rel=\"nofollow\">Mario Rescues the Golden Mushroom Discord Server</a><br>\r\n<br>\r\n<a href=\"https://www.youtube.com/channel/UCnQbm8ocRS3hDXlPM0EEeCw\" rel=\"nofollow\">YouTube</a><br>\r\n<a href=\"https://www.deviantart.com/greenjerry\" rel=\"nofollow\">DeviantArt</a><br>\r\n<a href=\"https://www.youtube.com/playlist?list=PL7EFgXI1hvJOExhylyxgB3so0IqLtS4wD\" rel=\"nofollow\"><br>\r\nSMW Hacks Playlist</a><br>\r\n<a href=\"https://bin.smwcentral.net/u/27645/ROM%2BHacks.html\" rel=\"nofollow\">My hacks list</a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2015-10-19T05:51:49"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1373482",
+				"author_id": "21502",
+				"author_username": "FrozenQuills",
+				"post_created": "2016-10-26T15:08:50",
+				"last_edit": "2016-11-30T05:49:08",
+				"last_edit_author_id": "21502",
+				"last_edit_author_username": "FrozenQuills",
+				"message_body": "\n<tr id=\"p1373482\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=21502\" style=\"color: #7c60b0;\" class=\"un\">FrozenQuills</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://talkhaus.raocow.com/download/file.php?avatar=98165_1500748124.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 60/220<br>\n\t\t\n\t\tSince: <time datetime=\"2012-12-07T05:42:04\">2012-12-07 05:42:04 AM</time><br>\n\t\t\t<br>\n\t\tLast seen: 2 weeks and 6 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1373482\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-10-26T15:08:50\">2016-10-26 03:08:50 PM</time> | <i>Last edited <time datetime=\"2016-11-30T05:49:08\">2016-11-30 05:49:08 AM</time> by <a href=\"/?p=profile&amp;id=21502\" style=\"color: #7c60b0;\" class=\"un\">FrozenQuills</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/21502/FrozenQuillsCLDCV1-4.ips\" rel=\"nofollow\">Motel</a><br>\r\n<br>\r\n1 exit.<br>\r\n<br>\r\nIf any crashes or stuff happens then I highly suggest using snes9x.<br>\r\n<br>\r\nCredits:<br>\r\n<div class=\"spoiler\"><div class=\"spoilerInner\">Alcaro for the pendulum sprites and helping me with fixing the rope disassembly<br>\r\nworldpeace for the retry system<br>\r\nThomas for the wall following grinders<br>\r\nLazy and ft029 for playtesting/feedback</div></div><br>\r\n<br>\r\nEDIT: Minor update due to lolyoshi's feedback.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/21502/FrozenQuillsCLDCV1-4.ips",
+				"smwc_user_since": "2012-12-07T05:42:04"
+			},
+			"scores": {
+				"rank": 2,
+				"nimono": {
+					"design": 33,
+					"creativity": 28,
+					"aesthetics": 18,
+					"total": 79,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 29,
+					"creativity": 27,
+					"aesthetics": 20,
+					"total": 76,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 34,
+					"creativity": 22,
+					"aesthetics": 17,
+					"total": 73,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 37,
+					"creativity": 19,
+					"aesthetics": 23,
+					"total": 79,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 34,
+					"creativity": 28,
+					"aesthetics": 26,
+					"total": 88,
+					"comment": ""
+				},
+				"average": {
+					"design": 33.4,
+					"creativity": 24.8,
+					"aesthetics": 20.8,
+					"total": 79,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1373739",
+				"author_id": "27670",
+				"author_username": "niko",
+				"post_created": "2016-10-28T02:15:19",
+				"last_edit": "2016-10-28T02:23:14",
+				"last_edit_author_id": "27670",
+				"last_edit_author_username": "niko",
+				"message_body": "\n<tr id=\"p1373739\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=27670\" style=\"color: #657091;\" class=\"un\">niko</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 5/130<br>\n\t\t\n\t\tSince: <time datetime=\"2015-10-21T23:07:19\">2015-10-21 11:07:19 PM</time><br>\n\t\t\tLocation: Germany<br>\n\t\t\t<br>\n\t\tLast seen: 2 months and 13 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1373739\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-10-28T02:15:19\">2016-10-28 02:15:19 AM</time> | <i>Last edited <time datetime=\"2016-10-28T02:23:14\">2016-10-28 02:23:14 AM</time> by <a href=\"/?p=profile&amp;id=27670\" style=\"color: #657091;\" class=\"un\">niko</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t---Water Dungeon----<br>\r\n<br>\r\nThis is nothing special, just a normal level from a hack i am working on.<br>\r\n<br>\r\nI break the path, so you cant get to the next world.<br>\r\n<br>\r\nAnd there is a message box in the first castle, you cant read it, so i say it now to you.<br>\r\n<br>\r\nhot Ground is evil<br>\r\n<br>\r\nhttp://bin.smwcentral.net/u/27670/Water%2BDungeon%2BChocolate%2BContest%2BLevel.zip<br>\r\n<br>\r\nI dont know how to make a functionaly link, so just higlight it.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2015-10-21T23:07:19"
+			},
+			"scores": {
+				"rank": 24,
+				"nimono": {
+					"design": 4,
+					"creativity": 4,
+					"aesthetics": 4,
+					"total": 12,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 22,
+					"creativity": 15,
+					"aesthetics": 12,
+					"total": 49,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 14,
+					"creativity": 7,
+					"aesthetics": 12,
+					"total": 33,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 18,
+					"creativity": 7,
+					"aesthetics": 12,
+					"total": 37,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 16,
+					"creativity": 12,
+					"aesthetics": 10,
+					"total": 38,
+					"comment": ""
+				},
+				"average": {
+					"design": 14.8,
+					"creativity": 9,
+					"aesthetics": 10,
+					"total": 33.8,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1373865",
+				"author_id": "16921",
+				"author_username": "Wind Fish",
+				"post_created": "2016-10-28T20:37:56",
+				"last_edit": "2016-11-30T02:22:24",
+				"last_edit_author_id": "16921",
+				"last_edit_author_username": "Wind Fish",
+				"message_body": "\n<tr id=\"p1373865\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=16921\" style=\"color: #7c60b0;\" class=\"un\">Wind Fish</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://i.imgur.com/awmjR4l.gif\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 261/881<br>\n\t\t\n\t\tSince: <time datetime=\"2011-08-20T20:56:11\">2011-08-20 08:56:11 PM</time><br>\n\t\t\t<br>\n\t\tLast seen: 1 week and 4 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1373865\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-10-28T20:37:56\">2016-10-28 08:37:56 PM</time> | <i>Last edited <time datetime=\"2016-11-30T02:22:24\">2016-11-30 02:22:24 AM</time> by <a href=\"/?p=profile&amp;id=16921\" style=\"color: #7c60b0;\" class=\"un\">Wind Fish</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style type=\"text/css\">@import url('https://bin.smwcentral.net/u/16921/wflayout.css');</style><div class=\"WindFishC3BG\"><div class=\"WindFishC3Post\"><a href=\"https://bin.smwcentral.net/u/16921/HH_12a.zip\" rel=\"nofollow\">Here's mine.</a> There is no gimmick, so don't expect anything spectacular.<br>\r\n<b><br>\r\nUpdate 29/10/16:</b> Some issues with the level have been fixed.</div> <font color=\"#33cc33\"> <font size=\"1\">Layout by Erik557 </font> </font> <div class=\"WindFishC3Sig\">Hi. </div> </div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2011-08-20T20:56:11"
+			},
+			"scores": {
+				"rank": 22,
+				"nimono": {
+					"design": 10,
+					"creativity": 7,
+					"aesthetics": 15,
+					"total": 32,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 12,
+					"creativity": 8,
+					"aesthetics": 9,
+					"total": 29,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 12,
+					"creativity": 10,
+					"aesthetics": 10,
+					"total": 32,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 27,
+					"creativity": 15,
+					"aesthetics": 15,
+					"total": 57,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 17,
+					"creativity": 9,
+					"aesthetics": 20,
+					"total": 46,
+					"comment": ""
+				},
+				"average": {
+					"design": 15.6,
+					"creativity": 9.8,
+					"aesthetics": 13.8,
+					"total": 39.2,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1374187",
+				"author_id": "27753",
+				"author_username": "MrMartley64",
+				"post_created": "2016-10-29T22:18:29",
+				"last_edit": "2016-11-14T01:14:48",
+				"last_edit_author_id": "27753",
+				"last_edit_author_username": "MrMartley64",
+				"message_body": "\n<tr id=\"p1374187\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=27753\" style=\"color: #f185c9;\" class=\"un\">MrMartley64</a><br>\n\t\t<span class=\"small\">Mario<br><img src=\"/images/rankset/smash/mario.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 67/308<br>\n\t\t\n\t\tSince: <time datetime=\"2015-10-31T22:30:12\">2015-10-31 10:30:12 PM</time><br>\n\t\t\tLocation: America!!!<br>\n\t\t\t<br>\n\t\tLast seen: 2 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1374187\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-10-29T22:18:29\">2016-10-29 10:18:29 PM</time> | <i>Last edited <time datetime=\"2016-11-14T01:14:48\">2016-11-14 01:14:48 AM</time> by <a href=\"/?p=profile&amp;id=27753\" style=\"color: #f185c9;\" class=\"un\">MrMartley64</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style>\r\n@import url('https://fonts.googleapis.com/css?family=Helvetica+Neue');\r\n.ly395964_bg {background: url(https://vignette.wikia.nocookie.net/millionaire/images/8/84/Who_Wants_to_Be_a_Millionaire_new_logo.png/revision/latest?cb=20180830234514) center right no-repeat, #102030 url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwGL7AxwATYSHrDym9tnS2st7zogbNgIHgx1Z-tZMcqak4uC34) top left repeat; padding: 50px; font-family: 'Helvetica Neue', sans-serif; min-height: 100px;}\r\n.ly395964_post {background: rgba(64, 80, 96, 1); border: 0 none #000000; padding: 7px; color: #FFFFFF; text-shadow: 0 0 3px #000000; box-shadow: 2px 2px 1px #000000; margin-right: 150px;}\r\n.ly395964_post a {color: #90B0F0; font-weight: normal; text-shadow: inherit;}\r\n.ly395964_post .quote .box {background: rgba(0, 0, 0, 0.4); border: 1px solid #FFFFFF; padding: 5px;}\r\n.ly395964_post .code .box {background: rgba(0, 0, 0, 0.4); border: 1px solid #FFFFFF; padding: 5px; color: inherit; white-space: pre-wrap;}\r\n.ly395964_post .code .boxhead {color:  inherit;}\r\n.ly395964_post .spoiler {background: #000000 !important; border-radius: 2px; border: 1px solid #FFFFFF !important;}\r\n.ly395964_post hr {border: 0; height: 1px; background: #000000;}\r\n.ly395964_post .code br {display: none;} /* Layout Maker XP */\r\n</style><div class=\"ly395964_bg\"><div class=\"ly395964_post\"><a href=\"https://bin.smwcentral.net/u/27753/CLDC.rar\" rel=\"nofollow\">Iggy's Airship</a> From My Hack: Bowser's second strike 1.4<br>\r\n<br>\r\nUpdate: Now in an .IPS format<br>\r\n<br>\r\n<br>\r\nHAVE FUN!</div><div class=\"ly395964_post\" style=\"margin-top: 50px;\">Signed, one great guy!#</div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2015-10-31T22:30:12"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1375676",
+				"author_id": "25922",
+				"author_username": "Divemissile",
+				"post_created": "2016-11-05T10:22:07",
+				"last_edit": "2016-11-05T22:09:15",
+				"last_edit_author_id": "25922",
+				"last_edit_author_username": "Divemissile",
+				"message_body": "\n<tr id=\"p1375676\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=25922\" style=\"color: #657091;\" class=\"un\">Divemissile</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 17/30<br>\n\t\t\n\t\tSince: <time datetime=\"2014-12-01T05:25:20\">2014-12-01 05:25:20 AM</time><br>\n\t\t\tLocation: right here<br>\n\t\t\t<br>\n\t\tLast seen: 7 months and 16 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1375676\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-05T10:22:07\">2016-11-05 10:22:07 AM</time> | <i>Last edited <time datetime=\"2016-11-05T22:09:15\">2016-11-05 10:09:15 PM</time> by <a href=\"/?p=profile&amp;id=25922\" style=\"color: #657091;\" class=\"un\">Divemissile</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://www.dropbox.com/s/y0935zj9ymce330/Dive%20Missile%20CLDC%202016.zip?dl=0\" rel=\"nofollow\">DEATH AND BEYOND</a><br>\r\n<br>\r\ni experimented a good bit with this level and i hope it pays off<br>\r\n<br>\r\nedit: fixed link\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2014-12-01T05:25:20"
+			},
+			"scores": {
+				"rank": 12,
+				"nimono": {
+					"design": 28,
+					"creativity": 30,
+					"aesthetics": 18,
+					"total": 76,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 27,
+					"creativity": 29,
+					"aesthetics": 22,
+					"total": 78,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 20,
+					"creativity": 26,
+					"aesthetics": 20,
+					"total": 66,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 24,
+					"creativity": 22,
+					"aesthetics": 16,
+					"total": 62,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 13,
+					"creativity": 13,
+					"aesthetics": 10,
+					"total": 36,
+					"comment": ""
+				},
+				"average": {
+					"design": 22.4,
+					"creativity": 24,
+					"aesthetics": 17.2,
+					"total": 63.6,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1375904",
+				"author_id": "29862",
+				"author_username": "Kaito",
+				"post_created": "2016-11-05T23:00:06",
+				"last_edit": "2016-11-05T23:07:00",
+				"last_edit_author_id": "29862",
+				"last_edit_author_username": "Kaito",
+				"message_body": "\n<tr id=\"p1375904\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=29862\" style=\"color: #775555;\" class=\"un\">Kaito</a><br>\n\t<span class=\"userstatus\">Account Disabled</span><br>\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/29862/SMALLER%2BINFDEV.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 28/96<br>\n\t\t\n\t\tSince: <time datetime=\"2016-10-17T20:02:11\">2016-10-17 08:02:11 PM</time><br>\n\t\t\tLocation: Somewhere.<br>\n\t\t\t<br>\n\t\tLast seen: 1 year, 10 months and 3 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1375904\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-05T23:00:06\">2016-11-05 11:00:06 PM</time> | <i>Last edited <time datetime=\"2016-11-05T23:07:00\">2016-11-05 11:07:00 PM</time> by <a href=\"/?p=profile&amp;id=29862\" style=\"color: #775555;\" class=\"un\">Kaito</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<b><a href=\"https://bin.smwcentral.net/u/29862/1-1.zip\" rel=\"nofollow\">Link</a></b><br>\r\n<br>\r\nI hope this does well.<br>\r\nCredit to Carol for the boss.<br>\r\n<br>\r\nI used some custom Map16 tiles from the original Bowser boss and just recolored some of the palletes for the star background. The background for the second area was ripped by yours truly. The rest was HDMA.<br><br>--------------------<br>Your layout has been removed.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2016-10-17T20:02:11"
+			},
+			"scores": {
+				"rank": 19,
+				"nimono": {
+					"design": 10,
+					"creativity": 10,
+					"aesthetics": 15,
+					"total": 35,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 18,
+					"creativity": 8,
+					"aesthetics": 19,
+					"total": 45,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 25,
+					"creativity": 9,
+					"aesthetics": 20,
+					"total": 54,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 18,
+					"creativity": 17,
+					"aesthetics": 18,
+					"total": 53,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 12,
+					"creativity": 9,
+					"aesthetics": 14,
+					"total": 35,
+					"comment": ""
+				},
+				"average": {
+					"design": 16.6,
+					"creativity": 10.6,
+					"aesthetics": 17.2,
+					"total": 44.4,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1376009",
+				"author_id": "14451",
+				"author_username": "Sockbat Replica",
+				"post_created": "2016-11-06T09:03:03",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1376009\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<img src=\"/images/coin.gif\" alt=\"o\" title=\"User donated $30.00\">&nbsp;<a href=\"/?p=profile&amp;id=14451\" style=\"color: #657091;\" class=\"un\">Sockbat Replica</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/14451/Upsidedownmilla.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 613/629<br>\n\t\t\n\t\tSince: <time datetime=\"2011-02-05T20:42:10\">2011-02-05 08:42:10 PM</time><br>\n\t\t\tLocation: Canada<br>\n\t\t\t<br>\n\t\tLast seen: 5 months and 21 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1376009\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-06T09:03:03\">2016-11-06 09:03:03 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/14451/What%2BThe%2BCheck.ips\" rel=\"nofollow\">http://bin.smwcentral.net/u/14451/What%2BThe%2BCheck.ips</a><br><br>--------------------<br><a href=\"https://www.youtube.com/channel/UCQn2aG8CZkFsBXmywfMY0Wg\" rel=\"nofollow\">My Youtube Channel</a><br>\r\n<a href=\"https://soundcloud.com/sockbat-replica\" rel=\"nofollow\">My Soundcloud</a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/14451/What%2BThe%2BCheck.ips",
+				"smwc_user_since": "2011-02-05T20:42:10"
+			},
+			"scores": {
+				"rank": 15,
+				"nimono": {
+					"design": 25,
+					"creativity": 14,
+					"aesthetics": 15,
+					"total": 54,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 20,
+					"creativity": 12,
+					"aesthetics": 23,
+					"total": 55,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 26,
+					"creativity": 15,
+					"aesthetics": 11,
+					"total": 52,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 11,
+					"creativity": 17,
+					"aesthetics": 13,
+					"total": 41,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 29,
+					"creativity": 20,
+					"aesthetics": 18,
+					"total": 67,
+					"comment": ""
+				},
+				"average": {
+					"design": 22.2,
+					"creativity": 15.6,
+					"aesthetics": 16,
+					"total": 53.8,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1376691",
+				"author_id": "21465",
+				"author_username": "darken",
+				"post_created": "2016-11-08T16:57:51",
+				"last_edit": "2016-11-24T19:45:38",
+				"last_edit_author_id": "21465",
+				"last_edit_author_username": "darken",
+				"message_body": "\n<tr id=\"p1376691\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=21465\" style=\"color: #925c7e;\" class=\"un\">darken</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://vignette.wikia.nocookie.net/conker/images/f/fd/Squirrel.jpg/revision/latest?cb=20090621035054\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 63/103<br>\n\t\t\n\t\tSince: <time datetime=\"2012-12-06T20:31:30\">2012-12-06 08:31:30 PM</time><br>\n\t\t\tLocation: Brazil - Distrito Federal<br>\n\t\t\t<br>\n\t\tLast seen: 11 months and 24 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1376691\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-08T16:57:51\">2016-11-08 04:57:51 PM</time> | <i>Last edited <time datetime=\"2016-11-24T19:45:38\">2016-11-24 07:45:38 PM</time> by <a href=\"/?p=profile&amp;id=21465\" style=\"color: #925c7e;\" class=\"un\">darken</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/21465/Alien%2BHive.ips\" rel=\"nofollow\">Alien Hive</a><br>\r\n<br>\r\nJoi VS a troop of aliens.<br>\r\n<br>\r\nFG: Original.<br>\r\nBG: Original.<br>\r\nMusic: Music in levels are original.<br>\r\nEnemies GFX: Original.<br>\r\n<br>\r\nHave Fun! ^^D<br>\r\n<br>\r\nAnother Edit: Some things was changed/fixed!<br><br>--------------------<br>-----<br>\r\n<a href=\"https://www.smwcentral.net/?p=submissions&user=21465\">Hacks and GFXs</a><br>\r\n-----<br>\r\n<a href=\"https://krookogron.deviantart.com\" rel=\"nofollow\">My deviantArt profile, if you are interesting to see my drawings.</a><br>\r\n-<br>\r\nI was not planning make hacks for a while, so the third episode of the \"o ninja negro\" series will take a long time to make, and \"Mario in neb's land 2\" is cancelled.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/21465/Alien%2BHive.ips",
+				"smwc_user_since": "2012-12-06T20:31:30"
+			},
+			"scores": {
+				"rank": 13,
+				"nimono": {
+					"design": 32,
+					"creativity": 20,
+					"aesthetics": 30,
+					"total": 82,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 12,
+					"creativity": 16,
+					"aesthetics": 25,
+					"total": 53,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 32,
+					"creativity": 20,
+					"aesthetics": 22,
+					"total": 74,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 8,
+					"creativity": 17,
+					"aesthetics": 22,
+					"total": 47,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 12,
+					"creativity": 14,
+					"aesthetics": 20,
+					"total": 46,
+					"comment": ""
+				},
+				"average": {
+					"design": 19.2,
+					"creativity": 17.4,
+					"aesthetics": 23.8,
+					"total": 60.4,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1379968",
+				"author_id": "23105",
+				"author_username": "Pink Gold Peach",
+				"post_created": "2016-11-24T00:55:44",
+				"last_edit": "2016-11-24T02:02:04",
+				"last_edit_author_id": "23105",
+				"last_edit_author_username": "Pink Gold Peach",
+				"message_body": "\n<tr id=\"p1379968\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=23105\" style=\"color: #f185c9;\" class=\"un\">Pink Gold Peach</a><br>\n\t\t<span class=\"small\">Rosalina & Luma<br><img src=\"/images/rankset/smash/rosalina.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/23105/avatar.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 739/985<br>\n\t\t\n\t\tSince: <time datetime=\"2013-06-23T04:05:09\">2013-06-23 04:05:09 AM</time><br>\n\t\t\tLocation: Brazil<br>\n\t\t\t<br>\n\t\tLast seen: 10 minutes and 48 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1379968\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-24T00:55:44\">2016-11-24 12:55:44 AM</time> | <i>Last edited <time datetime=\"2016-11-24T02:02:04\">2016-11-24 02:02:04 AM</time> by <a href=\"/?p=profile&amp;id=23105\" style=\"color: #f185c9;\" class=\"un\">Pink Gold Peach</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style>\r\n .World13_bg {background: url(https://bin.smwcentral.net/u/23105/layoutbg3.png) center center repeat, hsl(250, 99%, 32%) url(https://bin.smwcentral.net/u/23105/layoutbg.png) bottom left repeat-x; padding: 30px; font-family: Georgia, serif; color: #FFFFFF; text-shadow: 0 0 3px #000000; min-height: 150px;}\r\n .World13_post {background: hsla(262, 97%, 42%, 0.43); border: 3px double hsl(262, 95%, 80%); border-radius: 10px; padding: 30px; box-shadow: 1px 2px 2px hsla(254, 91%, 16%, 0.61); margin-right: 161px;}\r\n .World13_post a {color: hsl(26, 98%, 46%); font-weight: normal; text-shadow: inherit;} .World13_post a:hover {color: hsl(65, 76%, 85%);}\r\n .World13_post .quote .box {background: hsla(244, 93%, 43%, 0.18); border: 1px solid #FFFFFF; border-radius: 0; padding: 7px; box-shadow: 0 0 0 rgba(0, 0, 0, 0.82);}\r\n .World13_post .quote a {color: hsl(0, 100%, 47%);} .World13_post .quote a:hover {color: hsl(26, 97%, 49%);}\r\n .World13_post .code .box {background: hsla(124, 93%, 27%, 0.45); border: 1px solid #FFFFFF; border-radius: 0; padding: 7px; box-shadow: 0 0 0 hsla(124, 90%, 21%, 0); color: inherit; white-space: pre-wrap;}\r\n .World13_post .spoiler {background: #000000 !important; border: 1px solid #FFFFFF !important; border-radius: 2px;}\r\n .World13_post .code .boxhead {color:  inherit;} .World13_post .code br {display: none;}\r\n .World13_post hr {border: 0; height: 1px; background: hsl(262, 95%, 80%);} /* Layout Maker XP 2 */\r\n</style><div class=\"World13_bg\"><div class=\"World13_post\"><a href=\"https://bin.smwcentral.net/u/23105/CLDCEntry2.ips\" rel=\"nofollow\">Time to win a contest</a><br>\r\n<br>\r\nE: I accidently submitted a broken patch</div><div class=\"World13_post\" style=\"margin-top: 30px;\"><a href=\"https://smwc.me/1389096\">New Super Mario World 2</a><br>\r\n<a href=\"https://smwc.me/1487465\"><span style=\"color: #66ffff;\">C3 Demo</span></a><br>\r\n</div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/23105/CLDCEntry2.ips",
+				"smwc_user_since": "2013-06-23T04:05:09"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1379998",
+				"author_id": "20701",
+				"author_username": "Pseudogon",
+				"post_created": "2016-11-24T03:02:07",
+				"last_edit": "2016-11-24T20:17:30",
+				"last_edit_author_id": "20701",
+				"last_edit_author_username": "Pseudogon",
+				"message_body": "\n<tr id=\"p1379998\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=20701\" style=\"color: #97acef;\" class=\"un\">Pseudogon</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://i.imgur.com/wAvkmZF.jpg\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 1742/2064<br>\n\t\t\n\t\tSince: <time datetime=\"2012-08-24T23:59:52\">2012-08-24 11:59:52 PM</time><br>\n\t\t\tLocation: Florida<br>\n\t\t\t<br>\n\t\tLast seen: 1 week and 1 day ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1379998\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-24T03:02:07\">2016-11-24 03:02:07 AM</time> | <i>Last edited <time datetime=\"2016-11-24T20:17:30\">2016-11-24 08:17:30 PM</time> by <a href=\"/?p=profile&amp;id=20701\" style=\"color: #97acef;\" class=\"un\">Pseudogon</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://www.dropbox.com/s/3makavxuiggir5m/Cloud Voyage (CLDC 2016).bps?dl=1\" rel=\"nofollow\">Time to lose a contest</a><br>\r\n<br>\r\n<a href=\"https://www.youtube.com/watch?v=lpS1cjGq8P0\" rel=\"nofollow\">Also, here's a video if you're too lazy to play</a><br>\r\n<br>\r\nEDIT: Made some slight changes.<br><br>--------------------<br>Formerly known as nick 139<br>\r\n<a href=\"https://www.youtube.com/user/nick139smwhacker?feature=guide\" rel=\"nofollow\">My YouTube channel</a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/s/3makavxuiggir5m/Cloud Voyage (CLDC 2016).bps",
+				"smwc_user_since": "2012-08-24T23:59:52"
+			},
+			"scores": {
+				"rank": 9,
+				"nimono": {
+					"design": 24,
+					"creativity": 19,
+					"aesthetics": 23,
+					"total": 66,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 24,
+					"creativity": 23,
+					"aesthetics": 14,
+					"total": 61,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 37,
+					"creativity": 17,
+					"aesthetics": 27,
+					"total": 81,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 31,
+					"creativity": 12,
+					"aesthetics": 24,
+					"total": 67,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 34,
+					"creativity": 27,
+					"aesthetics": 19,
+					"total": 80,
+					"comment": ""
+				},
+				"average": {
+					"design": 30,
+					"creativity": 19.6,
+					"aesthetics": 21.4,
+					"total": 71,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1380017",
+				"author_id": "3471",
+				"author_username": "imamelia",
+				"post_created": "2016-11-24T04:24:31",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1380017\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<img src=\"/images/coin.gif\" alt=\"o\" title=\"User donated $50.00\">&nbsp;<a href=\"/?p=profile&amp;id=3471\" style=\"color: #7c60b0;\" class=\"un\">imamelia</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 7482/7983<br>\n\t\t\n\t\tSince: <time datetime=\"2008-10-06T01:27:21\">2008-10-06 01:27:21 AM</time><br>\n\t\t\tLocation: Montana, USA<br>\n\t\t\t<br>\n\t\tLast seen: 8 hours, 1 minute and 8 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1380017\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-24T04:24:31\">2016-11-24 04:24:31 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/3471/Choco%2BMountain%2BMysteries%252C%2Bor%2BA%2BSemi-Blatant%2BLevel%2B24%2BEdit%2B%2528Chocolate%2BLevel%2BDesign%2BContest%2B2016%2Bentry%2529.bps\" rel=\"nofollow\">Choco Mountain Mysteries, or A Semi-Blatant Level 24 Edit</a><br>\r\n<br>\r\nI want my 36th place trophy.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/3471/Choco%2BMountain%2BMysteries%252C%2Bor%2BA%2BSemi-Blatant%2BLevel%2B24%2BEdit%2B%2528Chocolate%2BLevel%2BDesign%2BContest%2B2016%2Bentry%2529.bps",
+				"smwc_user_since": "2008-10-06T01:27:21"
+			},
+			"scores": {
+				"rank": 14,
+				"nimono": {
+					"design": 30,
+					"creativity": 28,
+					"aesthetics": 20,
+					"total": 78,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 8,
+					"creativity": 2,
+					"aesthetics": 21,
+					"total": 31,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 13,
+					"creativity": 14,
+					"aesthetics": 22,
+					"total": 49,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 27,
+					"creativity": 21,
+					"aesthetics": 16,
+					"total": 64,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 20,
+					"creativity": 16,
+					"aesthetics": 19,
+					"total": 55,
+					"comment": ""
+				},
+				"average": {
+					"design": 19.6,
+					"creativity": 16.2,
+					"aesthetics": 19.6,
+					"total": 55.4,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1380144",
+				"author_id": "28020",
+				"author_username": "Sariel",
+				"post_created": "2016-11-24T19:29:33",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1380144\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=28020\" style=\"color: #f185c9;\" class=\"un\">Sariel</a><br>\n\t\t<span class=\"small\">Zelda<br><img src=\"/images/rankset/smash/zelda.png\" alt=\"\"></span><br><div class=\"usertitle\"><b><a href=\"https://www.smwcentral.net/?p=profile&id=17183\"><span style=\"color: #80EE80;\">Wakana</span></a> is the <span style=\"color: #f82020;\">sexiest</span></b></div><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/28020/qa12.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 64/890<br>\n\t\t\n\t\tSince: <time datetime=\"2015-12-09T16:13:48\">2015-12-09 04:13:48 PM</time><br>\n\t\t\tLocation: in Wakana's bed<br>\n\t\t\t<br>\n\t\tLast seen: 7 hours, 55 minutes and 20 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1380144\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-24T19:29:33\">2016-11-24 07:29:33 PM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/28020/Leiras_CLDC2016.ips\" rel=\"nofollow\">things</a><br><br>--------------------<br><a href=\"https://smwc.me/s/15956\" title=\"Hack: IUDICIUM TRIBUNALIS\" rel=\"nofollow\"><img src=\"https://www.smwcentral.net/images/ranks/touhou/shikieikiyamaxanadu.png\" alt=\"\"></a><a href=\"https://smwc.me/s/16910\"><img src=\"https://www.smwcentral.net/images/ranks/touhou/sariel.png\" alt=\"\"></a><center><a href=\"https://www.youtube.com/channel/UCtZzzPbG_M7x5H_P9Yasvvw\" title=\"YouTube Account\" rel=\"nofollow\"><img src=\"https://bin.smwcentral.net/u/25442/youtubeblock.png\" alt=\"\"></a></center>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/28020/Leiras_CLDC2016.ips",
+				"smwc_user_since": "2015-12-09T16:13:48"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1380275",
+				"author_id": "25222",
+				"author_username": "SwagAssMustafa",
+				"post_created": "2016-11-25T07:43:23",
+				"last_edit": "2016-11-25T13:27:25",
+				"last_edit_author_id": "25222",
+				"last_edit_author_username": "SwagAssMustafa",
+				"message_body": "\n<tr id=\"p1380275\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=25222\" style=\"color: #775555;\" class=\"un\">SwagAssMustafa</a><br>\n\t<span class=\"userstatus\">Account Disabled</span><br>\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"usertitle\">Still proceeded on pestering other mods about your ban even though you were told to not do so, thus not acknowledging the ban. You've had enough warnings too, so it's time to go.</div>\t<span class=\"small\">\n\t\tPosts: 207/887<br>\n\t\t\n\t\tSince: <time datetime=\"2014-07-12T12:30:57\">2014-07-12 12:30:57 PM</time><br>\n\t\t\tLocation: In the Muslim World<br>\n\t\t\t<br>\n\t\tLast seen: 1 year, 6 months and 13 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1380275\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-25T07:43:23\">2016-11-25 07:43:23 AM</time> | <i>Last edited <time datetime=\"2016-11-25T13:27:25\">2016-11-25 01:27:25 PM</time> by <a href=\"/?p=profile&amp;id=25222\" style=\"color: #775555;\" class=\"un\">SwagAssMustafa</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\tEdit:   <a href=\"https://bin.smwcentral.net/153558/ChocoContestEntry.bps\" rel=\"nofollow\">Yoshi Berry Orchard (Updated)</a><br>\r\n<br>\r\nThis level took nearly 3 days to finish. I hope I don't lose this time.<br>\r\n<br>\r\nNote: There should be no bugs in the level itself, besides Ladida's SMB3 Status Bar glitching a little but still working. I don't know why this happens on a modded ROM, even with no other ASM applied. So don't reject this entry for that bug, 'kay?<br>\r\n<br>\r\n-Credits-<br>\r\n<u>Graphics</u><br>\r\nSMB3 Wood GFX - MarioFanGamer<br>\r\nEdited by me<br>\r\nAdditional GFX by me<br>\r\n<br>\r\n<u>ASM</u><br>\r\nTeleport or die patch - MarioFanGamer<br>\r\nSMB3 Status Bar - Ladida<br>\r\nPiranha Plant Patch Fix Patch - Chdata<br>\r\nSprite Height Fix Patch - Davros<br>\r\nExit Adder Block - HuFlungDu<br>\r\nSMB3 Brick Block - S.L<br>\r\nCustomizable Question Blocks - MarioFanGmamer<br>\r\nInvisible Vine Block - ninja boy<br>\r\nInvisible P-Switch Block - Vine<br>\r\nSA-1 Pack - Vitor Vilela<br>\r\n<br>\r\n<u>Music</u><br>\r\nSMB3 Overworld Music and SMB3 World 9 Music (from Super Mario All-Stars Soundtrack)  - MidiGuy<br><br>--------------------<br>Your layout has been removed.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/153558/ChocoContestEntry.bps",
+				"smwc_user_since": "2014-07-12T12:30:57"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1380643",
+				"author_id": "21725",
+				"author_username": "yoshi9429",
+				"post_created": "2016-11-26T14:43:16",
+				"last_edit": "2016-11-27T02:29:37",
+				"last_edit_author_id": "21725",
+				"last_edit_author_username": "yoshi9429",
+				"message_body": "\n<tr id=\"p1380643\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=21725\" style=\"color: #97acef;\" class=\"un\">yoshi9429</a><br>\n\t\t<span class=\"small\">Yoshi<br><img src=\"/images/rankset/smash/yoshi.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/21725/SMWC%2BProfiles%2BDanmakustar.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 18/60<br>\n\t\t\n\t\tSince: <time datetime=\"2012-12-29T12:57:56\">2012-12-29 12:57:56 PM</time><br>\n\t\t\tLocation: Jinju, South Korea<br>\n\t\t\t<br>\n\t\tLast seen: 3 hours, 17 minutes and 15 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1380643\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-26T14:43:16\">2016-11-26 02:43:16 PM</time> | <i>Last edited <time datetime=\"2016-11-27T02:29:37\">2016-11-27 02:29:37 AM</time> by <a href=\"/?p=profile&amp;id=21725\" style=\"color: #97acef;\" class=\"un\">yoshi9429</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style> .Space_bg {background: url(http://postfiles15.naver.net/MjAxNzA3MjNfMTkx/MDAxNTAwNzgyNDU5OTkw.1CLeo8QgLWG3EfdBSUXliIxK9R3_csd4FI_NSsthdnog.5DsuPjjB2bRFZzH_AdoTENn3kTcCWVRkYXWuwO60Q5sg.PNG.yoshi9429/SpellDanmakustar.png?type=w3) center right no-repeat, url(http://postfiles5.naver.net/MjAxNzA3MjNfNTIg/MDAxNTAwNzgwOTQ5NzUy.OXOdmOiAkh18bkqP4uI3zkZkSEVxRaHaBa8s_nBnG9gg.SyOeCmGm_yNHc3Y4xco0PAfVwVlq9iYUh3gXtixgHm0g.PNG.yoshi9429/StarlitSky.png?type=w3) top left repeat, #102030 url(http://postfiles5.naver.net/MjAxNzA3MjNfNTIg/MDAxNTAwNzgwOTQ5NzUy.OXOdmOiAkh18bkqP4uI3zkZkSEVxRaHaBa8s_nBnG9gg.SyOeCmGm_yNHc3Y4xco0PAfVwVlq9iYUh3gXtixgHm0g.PNG.yoshi9429/StarlitSky.png?type=w3) top left repeat; padding: 20px; font-family: inherit; min-height: 300px;} .Space_post {background: rgba(94, 133, 182, 0.25); border: 0px solid #03070e; border-radius: 1px; padding: 5px; color: #ffffff; text-shadow: 0 0 3px #0f0f0f; margin-right: 0px;} .Space_post a {color: #8be9cd; font-weight: normal; text-shadow: inherit;} .Space_post .quote .box {background: rgba(73, 111, 160, 0.25); border: 1px solid #0a0f14; padding: 5px;} .Space_post .code .box {background: rgba(7, 23, 2, 0.25); border: 1px solid #0fc800; padding: 5px; color: inherit; white-space: pre-wrap;} .Space_post .code .boxhead {color:  inherit;} .Space_post hr {border: 0; height: 1px; background: #03070e;} .Space_post .code br {display: none;} /* Layout Maker XP */ </style><div class=\"Space_bg\"><div class=\"Space_post\"><a href=\"https://bin.smwcentral.net/u/21725/Extreme%2BCastle.zip\" rel=\"nofollow\">Extreme Castle</a><br>\r\n<br>\r\nSee the description txt file.<br>\r\nVer.1.01 - Increase in seconds. (500s &#8594; 700s)<br>\r\nVer.1.02 - Decrease time seconds. (700s &#8594; 600s)<br>\r\n<br>\r\n<a href=\"https://youtu.be/lmVlMcM9Hxs\" rel=\"nofollow\">Video</a><br><br>--------------------<br></div><div class=\"Space_post\" style=\"margin-top: 20px;\">I am yoshi9429 enjoying Lunar Magic and Touhou Danmakufu ph3 and RPG Maker MV.</div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2012-12-29T12:57:56"
+			},
+			"scores": {
+				"rank": 20,
+				"nimono": {
+					"design": 12,
+					"creativity": 18,
+					"aesthetics": 12,
+					"total": 42,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 18,
+					"creativity": 11,
+					"aesthetics": 18,
+					"total": 47,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 13,
+					"creativity": 4,
+					"aesthetics": 8,
+					"total": 25,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 12,
+					"creativity": 13,
+					"aesthetics": 14,
+					"total": 39,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 19,
+					"creativity": 16,
+					"aesthetics": 18,
+					"total": 53,
+					"comment": ""
+				},
+				"average": {
+					"design": 14.8,
+					"creativity": 12.4,
+					"aesthetics": 14,
+					"total": 41.2,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381087",
+				"author_id": "18536",
+				"author_username": "levelengine",
+				"post_created": "2016-11-28T04:15:20",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381087\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=18536\" style=\"color: #7c60b0;\" class=\"un\">levelengine</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 1029/1102<br>\n\t\t\n\t\tSince: <time datetime=\"2012-01-20T03:29:42\">2012-01-20 03:29:42 AM</time><br>\n\t\t\t<br>\n\t\tLast seen: 11 hours, 7 minutes and 30 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381087\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-28T04:15:20\">2016-11-28 04:15:20 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/18536/Chocolate%2BLevel%2B2016%2BPatch.zip\" rel=\"nofollow\">Chocolate Rush, because I rushed this level within the last week of the contest.</a><br>\r\n<br>\r\nShould be doable by someone good at this stuff.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2012-01-20T03:29:42"
+			},
+			"scores": {
+				"rank": 8,
+				"nimono": {
+					"design": 27,
+					"creativity": 30,
+					"aesthetics": 20,
+					"total": 77,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 34,
+					"creativity": 21,
+					"aesthetics": 19,
+					"total": 74,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 33,
+					"creativity": 27,
+					"aesthetics": 26,
+					"total": 86,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 24,
+					"creativity": 20,
+					"aesthetics": 22,
+					"total": 66,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 10,
+					"creativity": 24,
+					"aesthetics": 19,
+					"total": 53,
+					"comment": ""
+				},
+				"average": {
+					"design": 25.6,
+					"creativity": 24.4,
+					"aesthetics": 21.2,
+					"total": 71.2,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381398",
+				"author_id": "4806",
+				"author_username": "allowiscous",
+				"post_created": "2016-11-29T03:57:46",
+				"last_edit": "2016-12-01T00:30:30",
+				"last_edit_author_id": "4806",
+				"last_edit_author_username": "allowiscous",
+				"message_body": "\n<tr id=\"p1381398\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<img src=\"/images/coin.gif\" alt=\"o\" title=\"User donated $20.00\">&nbsp;<a href=\"/?p=profile&amp;id=4806\" style=\"color: #7c60b0;\" class=\"un\">allowiscous</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"usertitle\"><a href=\"https://www.smwcentral.net/?p=viewthread&t=87479\">MARIO SUPER DEMO RELEASED</a></div><div class=\"avatar\"><img src=\"https://i.imgur.com/AtpPteW.jpg\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 2342/2491<br>\n\t\t\n\t\tSince: <time datetime=\"2009-02-13T02:08:58\">2009-02-13 02:08:58 AM</time><br>\n\t\t\tLocation: Everywhere yet nowhere.<br>\n\t\t\t<br>\n\t\tLast seen: 2 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381398\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-29T03:57:46\">2016-11-29 03:57:46 AM</time> | <i>Last edited <time datetime=\"2016-12-01T00:30:30\">2016-12-01 12:30:30 AM</time> by <a href=\"/?p=profile&amp;id=4806\" style=\"color: #7c60b0;\" class=\"un\">allowiscous</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style type=\"text/css\">@import url('https://bin.smwcentral.net/u/4806/layout.css');</style><div class=\"alloBG\"><div class=\"alloPost\"><a href=\"https://bin.smwcentral.net/u/4806/fixedlol.ips\" rel=\"nofollow\">Uh, I suppose I'll enter...</a><br>\r\n<br>\r\nEDIT: fixed lol. always check your patches kids!</div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/4806/fixedlol.ips",
+				"smwc_user_since": "2009-02-13T02:08:58"
+			},
+			"scores": {
+				"rank": 5,
+				"nimono": {
+					"design": 30,
+					"creativity": 20,
+					"aesthetics": 30,
+					"total": 80,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 31,
+					"creativity": 26,
+					"aesthetics": 27,
+					"total": 84,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 29,
+					"creativity": 20,
+					"aesthetics": 19,
+					"total": 68,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 31,
+					"creativity": 20,
+					"aesthetics": 18,
+					"total": 69,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 34,
+					"creativity": 22,
+					"aesthetics": 26,
+					"total": 82,
+					"comment": ""
+				},
+				"average": {
+					"design": 31,
+					"creativity": 21.6,
+					"aesthetics": 24,
+					"total": 76.6,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381469",
+				"author_id": "9964",
+				"author_username": "Blind Devil",
+				"post_created": "2016-11-29T16:14:16",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381469\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<img src=\"/images/coin.gif\" alt=\"o\" title=\"User donated $5.00\">&nbsp;<a href=\"/?p=profile&amp;id=9964\" style=\"color: #657091;\" class=\"un\">Blind Devil</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"usertitle\">gone, for undetermined amount of time</div><div class=\"avatar\"><img src=\"https://i.postimg.cc/C5d1k3Q3/bpb.gif\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 1426/1888<br>\n\t\t\n\t\tSince: <time datetime=\"2010-03-29T03:45:09\">2010-03-29 03:45:09 AM</time><br>\n\t\t\tLocation: Forgot it... damn<br>\n\t\t\t<br>\n\t\tLast seen: 1 month and 28 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381469\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-29T16:14:16\">2016-11-29 04:14:16 PM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/9964/SummerHammer-CLDC16.zip\" rel=\"nofollow\">Summer Hammer Time</a><br>\r\n<br>\r\nLet's see how good an easy 1-1 styled level will do.<br><br>--------------------<br><a href=\"https://smwc.me/1453156\" title=\"Mushroom Kingdom 2 - The Dark Side collab: Join it!\" rel=\"nofollow\"><img src=\"https://s19.postimg.cc/n6yldn5c3/MK2_TDS.png\" alt=\"MK2TDS\"></a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2010-03-29T03:45:09"
+			},
+			"scores": {
+				"rank": 3,
+				"nimono": {
+					"design": 35,
+					"creativity": 20,
+					"aesthetics": 30,
+					"total": 85,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 37,
+					"creativity": 28,
+					"aesthetics": 28,
+					"total": 93,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 23,
+					"creativity": 27,
+					"aesthetics": 26,
+					"total": 76,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 20,
+					"creativity": 28,
+					"aesthetics": 17,
+					"total": 65,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 28,
+					"creativity": 11,
+					"aesthetics": 29,
+					"total": 68,
+					"comment": ""
+				},
+				"average": {
+					"design": 28.6,
+					"creativity": 22.8,
+					"aesthetics": 26,
+					"total": 77.4,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381644",
+				"author_id": "9819",
+				"author_username": "LHB",
+				"post_created": "2016-11-30T01:54:35",
+				"last_edit": "2016-11-30T01:55:47",
+				"last_edit_author_id": "9819",
+				"last_edit_author_username": "LHB",
+				"message_body": "<tr id=\"p1381644\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=9819\" style=\"color: #97acef;\" class=\"un\">LHB</a><br>\n\t\t<span class=\"small\">Piranha Plant<br><img src=\"/images/rankset/smash/piranha_plant.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/9819/ezgif.com-crop.gif\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 1459/1879<br>\n\t\t\n\t\tSince: <time datetime=\"2010-03-18T15:22:34\">2010-03-18 03:22:34 PM</time><br>\n\t\t\tLocation: Over there<br>\n\t\t\t<br>\n\t\tLast seen: 10 hours, 26 minutes and 11 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381644\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-30T01:54:35\">2016-11-30 01:54:35 AM</time> | <i>Last edited <time datetime=\"2016-11-30T01:55:47\">2016-11-30 01:55:47 AM</time> by <a href=\"/?p=profile&amp;id=9819\" style=\"color: #97acef;\" class=\"un\">LHB</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/9819/boo.ips\" rel=\"nofollow\">Boo Guy Fortress</a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/9819/boo.ips",
+				"smwc_user_since": "2010-03-18T15:22:34"
+			},
+			"scores": {
+				"rank": 16,
+				"nimono": {
+					"design": 6,
+					"creativity": 10,
+					"aesthetics": 26,
+					"total": 42,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 31,
+					"creativity": 20,
+					"aesthetics": 24,
+					"total": 75,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 20,
+					"creativity": 15,
+					"aesthetics": 15,
+					"total": 50,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 14,
+					"creativity": 10,
+					"aesthetics": 10,
+					"total": 34,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 25,
+					"creativity": 17,
+					"aesthetics": 23,
+					"total": 65,
+					"comment": ""
+				},
+				"average": {
+					"design": 19.2,
+					"creativity": 14.4,
+					"aesthetics": 19.6,
+					"total": 53.2,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381647",
+				"author_id": "9852",
+				"author_username": "lolyoshi",
+				"post_created": "2016-11-30T02:07:38",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381647\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=9852\" style=\"color: #584a72;\" class=\"un\">lolyoshi</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://i.imgur.com/6rCvQtQ.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 1070/1345<br>\n\t\t\n\t\tSince: <time datetime=\"2010-03-21T00:07:53\">2010-03-21 12:07:53 AM</time><br>\n\t\t\t<br>\n\t\tLast seen: 5 months and 19 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381647\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-30T02:07:38\">2016-11-30 02:07:38 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/9852/cldc2016lolyossy.zip\" rel=\"nofollow\">A GRINDR EXPERIENCE</a><br>\r\n<br>\r\n1 exit. This will likely not do well.<br>\r\n<a href=\"https://www.smwcentral.net/?p=profile&id=10946\">69penis69</a> is my partner, he helped me spiritually.<br>\r\n<br>\r\n<a href=\"https://youtu.be/uTbCjVp-PX8\" rel=\"nofollow\">VIDEO</a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2010-03-21T00:07:53"
+			},
+			"scores": {
+				"rank": 7,
+				"nimono": {
+					"design": 30,
+					"creativity": 23,
+					"aesthetics": 13,
+					"total": 66,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 33,
+					"creativity": 19,
+					"aesthetics": 20,
+					"total": 72,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 39,
+					"creativity": 19,
+					"aesthetics": 19,
+					"total": 77,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 37,
+					"creativity": 18,
+					"aesthetics": 22,
+					"total": 77,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 33,
+					"creativity": 20,
+					"aesthetics": 13,
+					"total": 66,
+					"comment": ""
+				},
+				"average": {
+					"design": 34.4,
+					"creativity": 19.8,
+					"aesthetics": 17.4,
+					"total": 71.6,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381651",
+				"author_id": "1055",
+				"author_username": "Skewer",
+				"post_created": "2016-11-30T02:19:43",
+				"last_edit": "2016-12-05T19:27:15",
+				"last_edit_author_id": "1055",
+				"last_edit_author_username": "Skewer",
+				"message_body": "\n<tr id=\"p1381651\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=1055\" style=\"color: #657091;\" class=\"un\">Skewer</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"usertitle\">Rogue Special and Trusty Lockpicks, they've never failed the Pilot (except for the few times it has)</div><div class=\"avatar\"><img src=\"https://signavatar.com/55112_v.gif\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 3937/4798<br>\n\t\t\n\t\tSince: <time datetime=\"2007-11-27T06:20:05\">2007-11-27 06:20:05 AM</time><br>\n\t\t\tLocation: United States, Georgia<br>\n\t\t\t<br>\n\t\tLast seen: 4 months and 14 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381651\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-30T02:19:43\">2016-11-30 02:19:43 AM</time> | <i>Last edited <time datetime=\"2016-12-05T19:27:15\">2016-12-05 07:27:15 PM</time> by <a href=\"/?p=profile&amp;id=1055\" style=\"color: #657091;\" class=\"un\">Skewer</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style>@import url('https://bin.smwcentral.net/u/1055/styleAUG3.css'); .scorpion { background: url('http://bin.smwcentral.net/u/1055/gradient.png') left top repeat-x, url('https://bin.smwcentral.net/u/1055/AUG.png') right bottom no-repeat, url('https://bin.smwcentral.net/u/1055/AUG-BG.png') center top repeat #030005; }</style><div class=\"scorpion\"><div class=\"scorpion-side\"><div class=\"scorpion-post\"><a href=\"https://bin.smwcentral.net/u/1055/Sica_And_The_Dark_Princess_1_1.zip\" rel=\"nofollow\">Sica and The Dark Princessv1.1</a> - I was having a boss coded for this, didn't get the boss in time; it's a <i>level contest</i>, not a boss contest anyways.  I said I'd submit the level with or without the boss, time to live up.  Enjoy the level.  I hope I'm not the only one who didn't rush through making a level for this contest.<br>\r\n<br>\r\nIt does have cutscenes, but they're pretty short.  Press START to skip cutscenes.  Please forgive me for how anti-climatic it is.  I'll further enhance this level in the future and maybe submit it to the hacks section as a small little thing, as it is kind of a prequel to TD4C.<br>\r\n<br>\r\nCredits<br>\r\n<div class=\"spoiler\"><div class=\"spoilerInner\"><br>\r\nASM: MarioE, leod, Ladida, Romi, DarkCoder, VitorVilela, RPG Hacker, GreenHammerBro<br>\r\nGraphics: Skewer (obviously); I do not own the character designs of Yuuriya or Gohan; they belong to their respective owners <i>Koshi Tachibana</i> and <i>Akira Toriyama</i>.  Sica however, does belong to me.</div></div><br>\r\n<br>\r\nMade an update: Fixes broken midway point, and you no longer need two controllers to play.  Enjoy!</div><div class=\"scorpion-footer\"><span style=\"font-size: 1.1em\">Cell Phones have killed more people than Guns</span></div></div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2007-11-27T06:20:05"
+			},
+			"scores": {
+				"rank": 11,
+				"nimono": {
+					"design": 5,
+					"creativity": 23,
+					"aesthetics": 30,
+					"total": 58,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 22,
+					"creativity": 29,
+					"aesthetics": 16,
+					"total": 67,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 30,
+					"creativity": 24,
+					"aesthetics": 22,
+					"total": 76,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 21,
+					"creativity": 27,
+					"aesthetics": 25,
+					"total": 73,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 11,
+					"creativity": 22,
+					"aesthetics": 28,
+					"total": 61,
+					"comment": ""
+				},
+				"average": {
+					"design": 17.8,
+					"creativity": 25,
+					"aesthetics": 24.2,
+					"total": 67,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381662",
+				"author_id": "9894",
+				"author_username": "Hobz",
+				"post_created": "2016-11-30T02:52:57",
+				"last_edit": "2016-12-01T03:18:59",
+				"last_edit_author_id": "9894",
+				"last_edit_author_username": "Hobz",
+				"message_body": "\n<tr id=\"p1381662\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<img src=\"/images/coin.gif\" alt=\"o\" title=\"User donated $6.00\">&nbsp;<a href=\"/?p=profile&amp;id=9894\" style=\"color: #a6d9db;\" class=\"un\">Hobz</a><br>\n\t<span class=\"userstatus\">Banned Until <time datetime=\"2019-02-02T19:48:58\">2019-02-02 07:48:58 PM</time></span><br>\t<span class=\"small\">Yoshi<br><img src=\"/images/rankset/smash/yoshi.png\" alt=\"\"></span><br><div class=\"usertitle\"><b>Female Body Inspector</b><br><center><img src=\"https://bin.smwcentral.net/u/9894/felix.png\" alt=\"\"></center></div>\t<span class=\"small\">\n\t\tPosts: 3036/5107<br>\n\t\t\n\t\tSince: <time datetime=\"2010-03-24T04:06:14\">2010-03-24 04:06:14 AM</time><br>\n\t\t\tLocation: Ontario, Canada<br>\n\t\t\t<br>\n\t\tLast seen: 16 hours, 20 minutes and 26 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381662\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-30T02:52:57\">2016-11-30 02:52:57 AM</time> | <i>Last edited <time datetime=\"2016-12-01T03:18:59\">2016-12-01 03:18:59 AM</time> by <a href=\"/?p=profile&amp;id=9894\" style=\"color: #a6d9db;\" class=\"un\">Hobz</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style>@import url('https://fonts.googleapis.com/css?family=Bitter');</style><style>@import url('https://bin.smwcentral.net/u/9894/HobzLAYOUT.CSS');</style><div class=\"HobzLayoutMain\"><div class=\"HobzLayoutBart\"></div><br><div class=\"HobzLayoutText\"><a href=\"https://dl.dropboxusercontent.com/u/54889542/hobz.ips\" rel=\"nofollow\">wall jump kid</a> (updated one last time ok good luck all<br>\r\ncredits<br>\r\n<div class=\"spoiler\"><div class=\"spoilerInner\">MarioE for wall kick<br>\r\nall tilesets by KOPEJO<br>\r\nwiiqwertyuiop & Ixtab for sprites<br>\r\nMandew, JackTheSpades, PatPatPat, Fourpify, ShadowDragon121, TheBiob and Ramp202 for blocks<br>\r\nsinc-x, Wakana & Still Not Pac for music<br>\r\nSmallhacker for status bar editor, Ladida, MrDeePay and Nesquik Bunny for hex edits</div></div></div><div class=\"HobzLayoutText\"><center><b>Hit or miss, I guess they never miss, huh?<br>\r\nYou got a boyfriend, I bet he doesn't kiss ya</b></center></div><br></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/54889542/hobz.ips",
+				"smwc_user_since": "2010-03-24T04:06:14"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381676",
+				"author_id": "18321",
+				"author_username": "idol",
+				"post_created": "2016-11-30T03:43:43",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381676\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=18321\" style=\"color: #e2e2e2;\" class=\"un\">idol</a><br>\n\t<span class=\"userstatus\">Site Manager</span><br>\t<span class=\"small\">Galeem<br><img src=\"/images/rankset/smash/boss_galeem.png\" alt=\"\"></span><br><div class=\"usertitle\"><hr></div><div class=\"avatar\"><img src=\"https://stupid.li/random/?set=incandescence#.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 387/1087<br>\n\t\t\n\t\tSince: <time datetime=\"2011-12-26T07:53:17\">2011-12-26 07:53:17 AM</time><br>\n\t\t\tLocation: heaven<br>\n\t\t\t<br>\n\t\tLast seen: 9 hours, 23 minutes and 34 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381676\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-11-30T03:43:43\">2016-11-30 03:43:43 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/18321/idol%2B-%2Bcldc.bps\" rel=\"nofollow\">idol's grand incredible lovely level. it's really good. i'm good. i dont know what im doing ever</a><br>\r\n<br>\r\nit's kinda rushed so �\\_(&#12484;)_/�<br>\r\n<br>\r\ncredity stuff i might notve gotten everyone my stuff was rly messy this time around i tried 2 keep track of folks tho but if yr shit is in this level n yr not credited just holler: [also big spoilers for my level!!!!]<br>\r\n<br>\r\n<div class=\"spoiler\"><div class=\"spoilerInner\">dkc status bar - whiteyoshiegg<br>\r\nno file - noobishnoobsicle<br>\r\nmagical sword final level void - cheat-master30<br>\r\nreverse gravity - marioe<br>\r\n<br>\r\nblocks:<br>\r\n<br>\r\nbroozer - bounce blocks<br>\r\ngreenhammerbro - vertical / horizontal wrap blocks<br>\r\n<br>\r\nsprites: <br>\r\n<br>\r\nthomas - yi kamek<br>\r\nleod - snakes<br>\r\n<br>\r\nspecial thanks 2 leod for help w big boo boss and for being generally okay<br>\r\n<br>\r\nmusic:<br>\r\n<br>\r\nsinc-x - lemon angel<br>\r\nruberjig - rapidfire rescuer</div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/18321/idol%2B-%2Bcldc.bps",
+				"smwc_user_since": "2011-12-26T07:53:17"
+			},
+			"scores": {
+				"rank": 1,
+				"nimono": {
+					"design": 38,
+					"creativity": 30,
+					"aesthetics": 30,
+					"total": 98,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 37,
+					"creativity": 29,
+					"aesthetics": 29,
+					"total": 95,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 33,
+					"creativity": 24,
+					"aesthetics": 24,
+					"total": 81,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 29,
+					"creativity": 25,
+					"aesthetics": 18,
+					"total": 72,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 31,
+					"creativity": 29,
+					"aesthetics": 17,
+					"total": 77,
+					"comment": ""
+				},
+				"average": {
+					"design": 33.6,
+					"creativity": 27.4,
+					"aesthetics": 23.6,
+					"total": 84.6,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381895",
+				"author_id": "5831",
+				"author_username": "StrikeForcer",
+				"post_created": "2016-12-01T00:07:33",
+				"last_edit": "2016-12-01T06:56:34",
+				"last_edit_author_id": "5831",
+				"last_edit_author_username": "StrikeForcer",
+				"message_body": "\n<tr id=\"p1381895\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=5831\" style=\"color: #7c60b0;\" class=\"un\">StrikeForcer</a><br>\n\t\t<span class=\"small\">Mario<br><img src=\"/images/rankset/smash/mario.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"http://s10.postimg.cc/ajl8rgpk5/skypeedition.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 282/558<br>\n\t\t\n\t\tSince: <time datetime=\"2009-05-09T15:45:45\">2009-05-09 03:45:45 PM</time><br>\n\t\t\tLocation: U.S.A.<br>\n\t\t\t<br>\n\t\tLast seen: 9 hours, 3 minutes and 48 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381895\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-12-01T00:07:33\">2016-12-01 12:07:33 AM</time> | <i>Last edited <time datetime=\"2016-12-01T06:56:34\">2016-12-01 06:56:34 AM</time> by <a href=\"/?p=profile&amp;id=5831\" style=\"color: #7c60b0;\" class=\"un\">StrikeForcer</a></i></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\tCreepy Childhouse<br>\r\n<br>\r\n2 Exits, Level encourages exploration. Use Floating IPS to patch.<br>\r\n<br>\r\n<a href=\"https://bin.smwcentral.net/u/5831/CreepyChildhouse%2BRelease%2BCandidate%2Bv1.1.zip\" rel=\"nofollow\">http://bin.smwcentral.net/u/5831/CreepyChildhouse%2BRelease%2BCandidate%2Bv1.1.zip</a><br>\r\n<br>\r\n(Didn't want to submit it yet because of things I want realized for this entry but seeing how the community doesn't want to have a deadline extension, I will have to make due with this entry's current state. Enjoy.)<br>\r\n<br>\r\n(EDIT V1.1 - Addresses more minor difficulty and added two message blocks)<br><br>--------------------<br>https://www.change.org/petitions/google-change-the-youtube-comment-section-back-to-its-original-form<br>\r\n<br>\r\n<br>\r\n<a href=\"https://www.smwcentral.net/?p=viewthread&t=61122\"><img src=\"https://bin.smwcentral.net/u/17183/JIJIDeviousfourchroniclesuserbaars.png\" alt=\"\"></a><br>\r\n<br>\r\n[19:43] &lt;StrikeForcer&gt; I also want to say that \"because everything on the internet is definitely true!\" is a derailment tactic that serves as a shorthand change for \"I dont accept the facts\"<br>\r\n<br>\r\n[19:44] &lt;StrikeForcer&gt; When the information posted clearly is fact-based.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2009-05-09T15:45:45"
+			},
+			"scores": {
+				"rank": 27,
+				"nimono": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": "DQ",
+					"comment": ""
+				},
+				"noivern": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": "DQ",
+					"comment": ""
+				},
+				"impetus": {
+					"design": 14,
+					"creativity": 16,
+					"aesthetics": 16,
+					"total": 46,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": "DQ",
+					"comment": ""
+				},
+				"wakana": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": "DQ",
+					"comment": ""
+				},
+				"average": {
+					"design": 2.8,
+					"creativity": 3.2,
+					"aesthetics": 3.2,
+					"total": 0,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381954",
+				"author_id": "27442",
+				"author_username": "ft029",
+				"post_created": "2016-12-01T04:04:47",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381954\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=27442\" style=\"color: #7c60b0;\" class=\"un\">ft029</a><br>\n\t\t<span class=\"small\">Meta Knight<br><img src=\"/images/rankset/smash/meta_knight.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 870/1438<br>\n\t\t\n\t\tSince: <time datetime=\"2015-09-23T20:29:31\">2015-09-23 08:29:31 PM</time><br>\n\t\t\t<br>\n\t\tLast seen: 13 hours, 41 minutes and 7 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381954\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-12-01T04:04:47\">2016-12-01 04:04:47 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://bin.smwcentral.net/u/27442/I_made_an_asm.ips\" rel=\"nofollow\"><span style=\"font-size: 16pt;\">I made an ASM</span></a><br>\r\n<br>\r\n<a href=\"https://youtu.be/m-ktb2a9yhE\" rel=\"nofollow\"><span style=\"font-size: 16pt;\">video</span></a>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/27442/I_made_an_asm.ips",
+				"smwc_user_since": "2015-09-23T20:29:31"
+			},
+			"scores": {
+				"rank": 4,
+				"nimono": {
+					"design": 37,
+					"creativity": 30,
+					"aesthetics": 10,
+					"total": 77,
+					"comment": ""
+				},
+				"noivern": {
+					"design": 36,
+					"creativity": 29,
+					"aesthetics": 15,
+					"total": 80,
+					"comment": ""
+				},
+				"impetus": {
+					"design": 36,
+					"creativity": 19,
+					"aesthetics": 14,
+					"total": 69,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": 39,
+					"creativity": 20,
+					"aesthetics": 15,
+					"total": 74,
+					"comment": ""
+				},
+				"wakana": {
+					"design": 36,
+					"creativity": 30,
+					"aesthetics": 20,
+					"total": 86,
+					"comment": ""
+				},
+				"average": {
+					"design": 36.8,
+					"creativity": 25.6,
+					"aesthetics": 14.8,
+					"total": 77.2,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381959",
+				"author_id": "28408",
+				"author_username": "Chillah",
+				"post_created": "2016-12-01T04:35:19",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381959\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=28408\" style=\"color: #584a72;\" class=\"un\">Chillah</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br>\t<span class=\"small\">\n\t\tPosts: 565/651<br>\n\t\t\n\t\tSince: <time datetime=\"2016-02-06T23:35:15\">2016-02-06 11:35:15 PM</time><br>\n\t\t\t<br>\n\t\tLast seen: 1 year, 2 months and 24 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381959\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-12-01T04:35:19\">2016-12-01 04:35:19 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<span style=\"font-size: 16pt;\">Autumnmole Stroll</span><br>\r\n<a href=\"https://bin.smwcentral.net/u/28408/ChillahLDC.ips\" rel=\"nofollow\">Here it is</a>. One exit.<br>\r\nI have to go to sleep literally right now, so it's untested and rather rushed. No custom music or fancy stuff. Enjoy! (Even if it's a broken .ips...)\t\t</div>\n\t</td>\n",
+				"patch_file_name": "/u/28408/ChillahLDC.ips",
+				"smwc_user_since": "2016-02-06T23:35:15"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381977",
+				"author_id": "6666",
+				"author_username": "HuFlungDu",
+				"post_created": "2016-12-01T06:59:32",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381977\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<img src=\"/images/coin.gif\" alt=\"o\" title=\"User donated $200.00\">&nbsp;<a href=\"/?p=profile&amp;id=6666\" style=\"color: #97acef;\" class=\"un\">HuFlungDu</a><br>\n\t<span class=\"userstatus\">Section Moderator</span><br>\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"https://bin.smwcentral.net/u/6666/Avatar.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 4535/4617<br>\n\t\t\n\t\tSince: <time datetime=\"2009-07-22T22:27:26\">2009-07-22 10:27:26 PM</time><br>\n\t\t\tLocation: California, USA<br>\n\t\t\t<br>\n\t\tLast seen: 15 hours, 0 minutes and 22 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381977\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-12-01T06:59:32\">2016-12-01 06:59:32 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer postpadding\">\n\t\t\t<a href=\"https://dl.dropboxusercontent.com/u/5812580/Dist/HFD_TLMB_CLDC2016.zip\" rel=\"nofollow\">This is the link it will be live in like a second, I just need to make the patch, don't close this thread on me</a>.\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2009-07-22T22:27:26"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381978",
+				"author_id": "70",
+				"author_username": "TLMB",
+				"post_created": "2016-12-01T07:02:20",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381978\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=70\" style=\"color: #97acef;\" class=\"un\">TLMB</a><br>\n\t\t<span class=\"small\">Dr. Mario<br><img src=\"/images/rankset/smash/dr_mario.png\" alt=\"\"></span><br><div class=\"usertitle\">The Lost Mario Bro</div><div class=\"avatar\"><img src=\"https://i153.photobucket.com/albums/s216/Lonestar_015/Aerith.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 2170/2204<br>\n\t\t\n\t\tSince: <time datetime=\"2007-08-20T21:18:08\">2007-08-20 09:18:08 PM</time><br>\n\t\t\tLocation: World<br>\n\t\t\t<br>\n\t\tLast seen: 2 weeks and 0 days ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381978\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-12-01T07:02:20\">2016-12-01 07:02:20 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<div style=\"background: url(http://media.tumblr.com/a579218b27faf2258dc81567319ae6f2/tumblr_inline_mg3vlkGbss1r2r6d4.gif) right no-repeat white; color: Black; border: px  solid; padding: 20px; padding-right: 0px;\"><div style=\"background: url(); margin-right: 310px; min-height: 300px\">Please no close thread, yet<br><br>--------------------<br>I wonder what a HFD opcode would do in ASM...</div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2007-08-20T21:18:08"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		},
+		{
+			"submission": {
+				"id": "p1381979",
+				"author_id": "1365",
+				"author_username": "MrDeePay",
+				"post_created": "2016-12-01T07:04:03",
+				"last_edit": "",
+				"last_edit_author_id": "",
+				"last_edit_author_username": "",
+				"message_body": "\n<tr id=\"p1381979\">\n\t<td valign=\"top\" class=\"postsidebar\">\n\t<a href=\"/?p=profile&amp;id=1365\" style=\"color: #97acef;\" class=\"un\">MrDeePay</a><br>\n\t\t<span class=\"small\">No Fighter Selected<br><img src=\"/images/rankset/smash/none.png\" alt=\"\"></span><br><div class=\"avatar\"><img src=\"http://dpsiko.miquelfire.com/forum/150_kagerou_cube85.png\" alt=\"Avatar\"></div>\t<span class=\"small\">\n\t\tPosts: 4867/4980<br>\n\t\t\n\t\tSince: <time datetime=\"2008-02-11T05:52:35\">2008-02-11 05:52:35 AM</time><br>\n\t\t\tLocation: Texas<br>\n\t\t\t<br>\n\t\tLast seen: 1 hour, 49 minutes and 29 seconds ago\t\t</span>\n\t</td>\n\t<td valign=\"top\" class=\"border\">\n\t\t<ul class=\"postmeta\">\n\t\t\t<li class=\"postmenu\"><a href=\"//smwc.me/1381979\">Link</a></li>\n\t\t\t<li class=\"postinfo\">Posted on <time datetime=\"2016-12-01T07:04:03\">2016-12-01 07:04:03 AM</time></li>\n\t\t</ul>\n\t\t<div class=\"postcontainer\">\n\t\t\t<style type=\"text/css\">@import url('https://media.smwcentral.net/mrdeepay/layout/style2.css');</style><div class=\"mrdeepay-outer\"><div class=\"mrdeepay-box side\"><span><h2>Extras</h2></span><div class=\"mrdeepay-content\"><br>\r\n<br>\r\nI'm accepting $5 character sketch commissions (and general donations).  Contact me through PM or on IRC for details if you're interested.<br>\r\nNote: Money sent to me will <i>not</i> go towards SMW Central- <a href=\"https://www.smwcentral.net/?p=viewthread&t=74889\">look here</a> if you want to donate to the website. <br>\r\n<br>\r\n</div></div><div class=\"mrdeepay-box main\"><h2> Advertising Space</h2><div class=\"mrdeepay-content\">Time's up, ya'll.  Any questions about extensions should be taken directly to Nimono.<br>\r\n<br>\r\nGood luckeroos!<hr><br>\r\n</div></div></div>\t\t</div>\n\t</td>\n",
+				"patch_file_name": "",
+				"smwc_user_since": "2008-02-11T05:52:35"
+			},
+			"scores": {
+				"rank": null,
+				"nimono": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"noivern": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"impetus": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"torchkas": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"wakana": {
+					"design": null,
+					"creativity": null,
+					"aesthetics": null,
+					"total": null,
+					"comment": ""
+				},
+				"average": {
+					"design": 0,
+					"creativity": 0,
+					"aesthetics": 0,
+					"total": null,
+					"comment": ""
+				}
+			},
+			"video": {
+				"title": "",
+				"url": "",
+				"upload_time": "",
+				"duration": "",
+				"tags": "",
+				"submissions": [
+					{
+						"submission_id": "",
+						"start_time": "",
+						"end_time": ""
+					}
+				],
+				"deaths": [],
+				"comments": [
+					{
+						"time": "",
+						"comment": ""
+					}
+				]
+			},
+			"stage": {
+				"themes": [],
+				"custom": {
+					"title_screen": null,
+					"transition_screen": null,
+					"player_sprite": null,
+					"enemies": null,
+					"tiles": null,
+					"hud": null,
+					"soundtrack": null,
+					"overworld": null
+				},
+				"features": {
+					"asm": null,
+					"dragon_coins": null,
+					"athletic_course": null,
+					"puzzles": null,
+					"boss_fights": null,
+					"altered_game_states": null,
+					"gimmicks": null,
+					"text": null,
+					"multiple_checkpoints": null,
+					"quick_restart": null,
+					"life_farm": null,
+					"memes": null,
+					"secret_exit": null,
+					"yoshi": null,
+					"auto_scroller": null
+				}
+			}
+		}
+	]
+}
